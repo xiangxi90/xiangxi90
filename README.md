@@ -1,5 +1,8 @@
 ### Hi there 👋
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`xiangxi90`-github-readme)<img src="https://github-readme-stats.vercel.app/api?username=`xiangxi90`&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false>
+![xiangxi90's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=xiangxi90&show_icons=true&count_private=true&theme=gotham)
+
+![Metrics](https://metrics.lecoq.io/xiangxi90?template=classic&isocalendar=1&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FShanghai)
+
   
 <!--
 **xiangxi90/xiangxi90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
